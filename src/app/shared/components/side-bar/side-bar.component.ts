@@ -49,19 +49,19 @@ export class SideBarComponent implements OnInit {
 
     this.customOptions = [
       {
-        name: 'Mi lista º1',
+        name: 'Mi lista 1',
         router: ['/'],
       },
       {
-        name: 'Mi lista º2',
+        name: 'Mi lista 2',
         router: ['/'],
       },
       {
-        name: 'Mi lista º3',
+        name: 'Mi lista 3',
         router: ['/'],
       },
       {
-        name: 'Mi lista º4',
+        name: 'Mi lista 4',
         router: ['/'],
       },
     ];
